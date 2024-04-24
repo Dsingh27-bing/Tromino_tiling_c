@@ -1,0 +1,11 @@
+Language - C
+Compilation - g++
+run command - 
+step 1: make program2
+step 2:./program2
+
+
+
+or for running you can use:
+step1: make
+step2:./program2
